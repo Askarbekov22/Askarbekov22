@@ -12,3 +12,5 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Askrbkov)
